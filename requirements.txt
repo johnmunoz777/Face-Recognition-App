@@ -1,0 +1,12 @@
+streamlit
+opencv-python-headless
+torch
+torchvision
+cvzone
+ultralytics
+cvzone
+pandas
+ultralytics
+av
+numpy
+streamlit-webrtc
